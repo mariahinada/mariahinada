@@ -3,8 +3,8 @@
 <img loading="lazy" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DATAg1AAZAA0" width="40" height="40"/>
 
 ## Technologies:
-<img loading="lazy" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="40" height="40"/>
-<img loading="lazy" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="40" height="40"/>
+<img loading="lazy" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="40" height="40"/>
 
 ## Languages:
 <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" width="40" height="40"/>
