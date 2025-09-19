@@ -7,4 +7,4 @@
 <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="40" height="40"/>
 
 ## Linguagens:
-<img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" width="40" height="40"/>
+<img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" width="40" height="40"/> 
