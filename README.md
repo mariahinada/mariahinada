@@ -8,3 +8,4 @@
 
 ## Linguagens:
 <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" width="40" height="40"/> 
+ 
