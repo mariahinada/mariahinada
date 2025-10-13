@@ -1,3 +1,6 @@
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mariahinada&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ## Aprendendo:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://img.icons8.com/?size=160&id=Xf1sHBmY73hA&format=png" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DATAg1AAZAA0" width="40" height="40"/>
@@ -9,4 +12,3 @@
 
 ## Linguagens:
 <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" width="40" height="40"/> 
- 
