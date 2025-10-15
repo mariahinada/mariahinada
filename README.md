@@ -10,5 +10,5 @@
 <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="40" height="40"/>
 <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="40" height="40"/>
 
-## Linguagens:
+## Linguagens: 
 <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" width="40" height="40"/> 
