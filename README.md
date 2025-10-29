@@ -1,4 +1,4 @@
-## GitHub Stats:
+## GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=mariahinada&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ## Aprendendo:
