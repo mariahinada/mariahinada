@@ -1,10 +1,18 @@
 ## Aprendendo:
-<img loading="lazy" src="https://img.icons8.com/?size=160&id=Xf1sHBmY73hA&format=png" width="40" height="40"/> <img loading="lazy" src="https://github.com/user-attachments/assets/7edbb706-4e26-4b5e-8ddc-009df4dd1337" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DATAg1AAZAA0" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Playwrite.svg" width="40" height="40"/>
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Cypress](https://img.shields.io/badge/-cypress-%23E9E9E9?style=for-the-badge&logo=cypress&logoColor=21403F)
+![Playwright](https://img.shields.io/badge/-Playwright-%232EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
 
 ## Tecnologias:
-<img loading="lazy" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40" height="40"/> <img loading="lazy" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="40" height="40"/><img loading="lazy" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" width="40" height="40"/> 
-<img loading="lazy" src="https://img.icons8.com/?size=256&id=24895&format=png" width="40" height="40"/> 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## Linguagens: 
-<img loading="lazy" src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" width="40" height="40"/> 
+## Linguagens e Dados:
+![Azure SQL](https://img.shields.io/badge/azure_sql-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
